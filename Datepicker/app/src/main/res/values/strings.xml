@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">DatePicker</string>
+	<string name="display_text">Current Selected Date(MM-DD-YYYY):</string>
+	<string name="sample_date">MM-DD-YYYY</string>
+	<string name="change_date">Change Date</string>
+
+</resources>
